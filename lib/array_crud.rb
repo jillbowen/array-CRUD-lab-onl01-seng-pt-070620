@@ -12,7 +12,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   ["frodo", "sam", "merry", "pippin"] 
-  add_element_to_start_of_array.unshift "wow"
+  .unshift "wow"
 end
 
 def remove_element_from_end_of_array(array)
